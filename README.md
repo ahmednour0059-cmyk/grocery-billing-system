@@ -8,10 +8,9 @@ print a formatted receipt with the change due.
 Developed for **BIT2083/BIT1054/BCS2013 Fundamental of Computational Thinking (Python)
 - Assignment 2, Task 1**, City University Malaysia.
 
-| Team member | Student ID |
-|-------------|------------|
+| Student | Student ID |
+|---------|------------|
 | Ahmed Khalid Abdelrahman Ahmednour | 202403010035 |
-| _Name 2_    | _ID_       |
 
 ---
 
